@@ -25,7 +25,13 @@ The analysis of the election show that:
     - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was: 
-    - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
+    - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.<br/>
+
+The requested data can be viewed below:<br/><br/>
+![Total number of votes](https://user-images.githubusercontent.com/91852495/141659145-e7d40550-11c8-4f27-8a85-03ffe05521e2.png)
+<br/>
+![Candidate info and winner](https://user-images.githubusercontent.com/91852495/141659166-1b19d198-e53d-4511-b5cb-2ff3d7c5b9b9.png)
+
 
 ## Challenge Overview
 The Colorado Board of Elections commission requests additional data to be collected in the audit of a recent local congressional election. In addition to the above requested and summarized information, the committee is requesting the following:
@@ -46,4 +52,10 @@ The Colorado Board of Elections commission requests additional data to be collec
     - 82.8% of votes were cast in Denver county.
     - 6.7% of votes were cast in Arapahoe county.
 - The county with the highest turnout was:
-    - Denver county with 82.8% of votes and 306,055 voters. 
+    - Denver county with 82.8% of votes and 306,055 voters. <br/>
+
+- The additional requested information can be viewed below:<br/><br/>
+![County Info](https://user-images.githubusercontent.com/91852495/141658958-7de736c9-c464-4486-a1dc-205c1a52462c.png)
+
+- The full audit results are pictured below:<br/><br/>
+![Full Election Info](https://user-images.githubusercontent.com/91852495/141659033-6fd049f4-97d9-4e05-a55f-ecc7ca93e06a.png)
