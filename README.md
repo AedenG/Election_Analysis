@@ -54,8 +54,8 @@ The Colorado Board of Elections commission requests additional data to be collec
 - The county with the highest turnout was:
     - Denver county with 82.8% of votes and 306,055 voters. <br/>
 
-- The additional requested information can be viewed below:<br/><br/>
+The additional requested information can be viewed below:<br/><br/>
 ![County Info](https://user-images.githubusercontent.com/91852495/141658958-7de736c9-c464-4486-a1dc-205c1a52462c.png)
 
-- The full audit results are pictured below:<br/><br/>
+The full audit results are pictured below:<br/><br/>
 ![Full Election Info](https://user-images.githubusercontent.com/91852495/141659033-6fd049f4-97d9-4e05-a55f-ecc7ca93e06a.png)
