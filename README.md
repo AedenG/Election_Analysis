@@ -60,5 +60,9 @@ The additional requested information can be viewed below:<br/><br/>
 The full audit results are pictured below:<br/><br/>
 ![Full Election Info](https://user-images.githubusercontent.com/91852495/141659033-6fd049f4-97d9-4e05-a55f-ecc7ca93e06a.png)
 
-## Future Elections
+### Future Elections
 The written script for the requested audit data can be used for future elections. Ballot ID, county, and candidate information can be collected in a new CSV file. The CSV file will be referenced in the script for the audit. The CSV file path can be changed to reflect the name of the new CSV file containing the new voting data. A new text file can be referenced as well in the script. The total number of votes, candidate vote distributions, election winner, individual county turnout, and largest county turnout will be written in the new text file. 
+
+Modify the following two areas in the script for future elections:<br/><br/>
+![File path](https://user-images.githubusercontent.com/91852495/141661635-8f53f3ce-5994-4e55-a01d-c54877ee1f4d.png)
+
