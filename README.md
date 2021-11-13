@@ -38,12 +38,12 @@ The Colorado Board of Elections commission requests additional data to be collec
 
 ### Results
 - The voter turnout for each county was:
-    -There were 38,855 voters in Jefferson county.
-    -There were 306,055 voters in Denver county.
-    -There were 24,801 voters in Arapahoe county.
+    - There were 38,855 voters in Jefferson county.
+    - There were 306,055 voters in Denver county.
+    - There were 24,801 voters in Arapahoe county.
 - The percentage of votes from each county were:
-    -10.5% of votes were cast in Jefferson county.
-    -82.8% of votes were cast in Denver county.
-    -6.7% of votes were cast in Arapahoe county.
+    - 10.5% of votes were cast in Jefferson county.
+    - 82.8% of votes were cast in Denver county.
+    - 6.7% of votes were cast in Arapahoe county.
 - The county with the highest turnout was:
-    -Denver county with 82.8% of votes and 306,055 voters. 
+    - Denver county with 82.8% of votes and 306,055 voters. 
